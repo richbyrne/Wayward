@@ -18,6 +18,8 @@ import android.widget.TextView;
 public class Main extends Activity
 {
 
+	// /JKJHHEIO OJEIOEJRJE OPJEPEJ OPJ PPO OPJ
+
 	// Default interval
 	private int _interval = 60;
 	int _stepCount = 0;
